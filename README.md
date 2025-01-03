@@ -44,8 +44,8 @@ project-root/
 ### 1. Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
-cd <nome-do-projeto>
+git clone git@github.com:tarcisiosilva/agencia-veiculo.git
+cd <agencia-veiculo>
 ```
 
 ### 2. Instale as dependências
