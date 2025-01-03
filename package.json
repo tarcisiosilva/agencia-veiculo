@@ -1,0 +1,23 @@
+{
+  "name": "sistema_veiculos",
+  "version": "1.0.0",
+  "description": "Projeto inicial Node + Graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tarcisiosilva/node-graphql.git"
+  },
+  "author": "Tarcísio Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarcisiosilva/node-graphql/issues"
+  },
+  "homepage": "https://github.com/tarcisiosilva/node-graphql#readme",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.10.0"
+  }
+}
